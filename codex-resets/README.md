@@ -22,10 +22,13 @@ Use another authentication file:
 - From 7 to under 14 days: yellow
 - 14 days or more: green
 
-Local banked Codex resets
-available_count=2
+## Example Output
 
-available_credits:
-status      granted_at                         expires_at
-available   2026-06-28T14:25:10.123456Z        2026-07-28T14:25:10.123456Z (in 26d 14h 15m)
-available   2026-06-30T08:40:00.654321Z        2026-07-06T08:40:00.654321Z (in 4d 8h 30m)
+
+    Local banked Codex resets
+    available_count=2
+
+    available_credits:
+    status      granted_at                         expires_at
+    available   2026-06-28T14:25:10.123456Z        2026-07-28T14:25:10.123456Z (in 26d 14h 15m)
+    available   2026-06-30T08:40:00.654321Z        2026-07-06T08:40:00.654321Z (in 4d 8h 30m)
