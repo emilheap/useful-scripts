@@ -1,5 +1,7 @@
 # Codex Reset Credits
 
+Displays your available banked Codex reset credits (does not reset) and shows how long remains before each credit expires.
+
 Make the script executable:
 
     chmod +x codex-resets.sh
